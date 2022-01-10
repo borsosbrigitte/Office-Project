@@ -1,0 +1,15 @@
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.AssemblyInfoInputs.cache
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.AssemblyInfo.cs
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.csproj.CoreCompileInputs.cache
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\OfficeModel.deps.json
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\OfficeModel.dll
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\ref\OfficeModel.dll
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\OfficeModel.pdb
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.dll
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\ref\OfficeModel.dll
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.pdb
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\OfficeModel.runtimeconfig.json
+C:\Users\Brigitte\source\repos\OfficeModel\bin\Debug\net5.0\OfficeModel.runtimeconfig.dev.json
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.genruntimeconfig.cache
+C:\Users\Brigitte\source\repos\OfficeModel\obj\Debug\net5.0\OfficeModel.csproj.AssemblyReference.cache
